@@ -1,2 +1,2 @@
-python27 Main.py
+python27 main.py
 pause
